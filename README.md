@@ -1,21 +1,37 @@
 # Impacts on Society
 
-Describe your course including the name, description, and grade level. Broadly explain how this document details how you plan to incorporate issues of computing impacts on society in your course
+Course: Introduction to Computer Science - an introductory level course for students in Grades 6 - 8 to learn basic coding using Scratch.
+
+The goal of this plan is to help students understand how computer science makes an impact on the greater society due to its prevalence in many fields of study. Students will also be inspired by the diversity of the featured presenters in the videos.
 
 ## Plan
 
 ### Learning Objectives
 
-Describe the learning objectives for the class that relate to social impacts. Consider using Bloom's Taxonomy to identify the types of cognitive and/or affective outcomes (and their associated verbs): https://bloomstaxonomy.net/
+-Students will research a computer scientist who has made a great impact on society.
+-Students will create a slideshow on an important person in computer science history.
 
 ### Learning Activities
 
-Describe the learning activities and how they will be incorporated into the class. For example, will they include class discussion, written reports, homework, or exams? Will the activity be a one-time lesson or used multiple times in class?
+Students will begin the lesson by watching a video from code.org on how computer science is changing everything.
+Students will be asked to note the different fields in which they see computer science being used.
+In groups of 4-5 students will create a tree map that identifies the different industries in which they realize are impacted by computer science. They will define specific areas within that industry in which computer science has improved that field.
+Students will next research computer scientists from csedweek.org and techprep. 
+On Google Slides, students will create the presentation with the following:
+Background Information: Name of the computer scientist, what they studied in college (if applicable), occupation. A picture of the person if available can be placed here.
+Impact: The student will explain how the person made an impact on their field, which in turn, makes an impact on society. What problem did the scientist solve? Are there other possibilities we could use this application/computing to solve problems in the world?
+Inspiration:The student will describe what is inspiring about the person’s background, creation, or innovation considering computer science.
 
 ### Assessment
 
-Describe how you plan to assess the learning objectives described above.
+To assess the learning objectives, the teacher will follow a 4 point rubric based off of projectstem.org for each part of the assignment (Background Information, Impact, and Inspiration):
+	4 - All requirements are met.
+	3 - Most requirements are met.
+	2-  Half of the requirements are met.
+	1-  Little or no requirements are met.
+
 
 ### Outcomes
 
-Describe how your plan will facilitate diversity/equity/inclusion and help broadening participation in computing. Also describe how the course plan will help long-term goals in addressing computing impacts on society.
+Since the people the students will meet in the videos are from many diverse backgrounds, this plan will assist in facilitating diversity/equity/inclusion. I believe that code.org and projectstem.org have done a great job at making all students feel included by representing people in the industry who you don’t usually see on the cover of Time magazine. Students will have the opportunity to research and/or learn from their classmates about different computer scientists from a variety of fields, who represent diverse backgrounds. Most importantly, by doing this research, the student should feel empowered to learn computer science and to make their own impact in the world despite any challenges they may face.
+
