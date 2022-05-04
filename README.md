@@ -24,11 +24,11 @@ Inspiration:The student will describe what is inspiring about the person’s bac
 
 ### Assessment
 
-To assess the learning objectives, the teacher will follow a 4 point rubric based off of projectstem.org for each part of the assignment (Background Information, Impact, and Inspiration):
-	4 - All requirements are met.
-	3 - Most requirements are met.
-	2 -  Half of the requirements are met.
-	1 -  Little or no requirements are met.
+To assess the learning objectives, the teacher will follow a 4 point rubric based off of projectstem.org for each part of the assignment (Background Information, Impact, and Inspiration):<br>
+	4 - All requirements are met.<br>
+	3 - Most requirements are met.<br>
+	2 -  Half of the requirements are met.<br>
+	1 -  Little or no requirements are met.<br>
 
 
 ### Outcomes
