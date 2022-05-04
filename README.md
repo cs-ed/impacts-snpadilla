@@ -8,7 +8,7 @@ The goal of this plan is to help students understand how computer science makes 
 
 ### Learning Objectives
 
--Students will research a computer scientist who has made a great impact on society.
+-Students will research a computer scientist who has made a great impact on society.<br>
 -Students will create a slideshow on an important person in computer science history.
 
 ### Learning Activities
