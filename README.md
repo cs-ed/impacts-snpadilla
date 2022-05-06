@@ -18,6 +18,7 @@ Students will be asked to note the different fields in which they see computer s
 <br>
 In groups of 4-5 students will create a tree map that identifies the different industries in which they realize are impacted by computer science.
 They will define specific areas within that industry in which computer science has improved that field.<br>
+<br>
 Students will next research computer scientists from [csedweek.org](https://www.csedweek.org) and [techprep](https://www.youtube.com/watch?v=-xFJM3QQ3TE). 
 On Google Slides, students will create the presentation with the following:<br>
 1. **Background Information**: <br>
