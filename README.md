@@ -19,9 +19,12 @@ Students will be asked to note the different fields in which they see computer s
 They will define specific areas within that industry in which computer science has improved that field.</p>
 <p>Students will next research computer scientists from [csedweek.org](csedweek.org) and [techprep](https://www.youtube.com/watch?v=-xFJM3QQ3TE). 
 On Google Slides, students will create the presentation with the following:</p>
-1. **Background Information**: Name of the computer scientist, what they studied in college (if applicable), occupation. A picture of the person if available can be placed here.
-2. **Impact**: The student will explain how the person made an impact on their field, which in turn, makes an impact on society. What problem did the scientist solve? Are there other possibilities we could use this application/computing to solve problems in the world?
-3. **Inspiration**:The student will describe what is inspiring about the person’s background, creation, or innovation considering computer science.
+<p>1. **Background Information**: 
+	a. Name of the computer scientist, what they studied in college (if applicable), 
+	b. Occupation. 
+	C. A picture of the person if available can be placed here.</p>
+3. **Impact**: The student will explain how the person made an impact on their field, which in turn, makes an impact on society. What problem did the scientist solve? Are there other possibilities we could use this application/computing to solve problems in the world?
+4. **Inspiration**:The student will describe what is inspiring about the person’s background, creation, or innovation considering computer science.
 
 ## Assessment
 
