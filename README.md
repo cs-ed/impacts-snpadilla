@@ -23,7 +23,7 @@ On Google Slides, students will create the presentation with the following:</p>
     a. Name of the computer scientist, what they studied in college (if applicable)<br>
     b. Occupation. <br>
     c. A picture of the person if available can be placed here.<br>
-2. Impact: The student will explain how the person made an impact on their field, which in turn, makes an impact on society. What problem did the scientist solve? Are there other possibilities we could use this application/computing to solve problems in the world?
+2. Impact: The student will explain how the person made an impact on their field, which in turn, makes an impact on society. What problem did the scientist solve? Are there other possibilities we could use this application/computing to solve problems in the world?<br>
 3. Inspiration:The student will describe what is inspiring about the person’s background, creation, or innovation considering computer science.
 
 ## Assessment
