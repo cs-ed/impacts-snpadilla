@@ -13,15 +13,15 @@ The goal of this plan is to help students understand how computer science makes 
 
 ## Learning Activities
 
-Students will begin the lesson by watching a video from [code.org](code.org) on how computer science is changing everything.
-Students will be asked to note the different fields in which they see computer science being used.<br>
-In groups of 4-5 students will create a tree map that identifies the different industries in which they realize are impacted by computer science.
-They will define specific areas within that industry in which computer science has improved that field.<br>
-Students will next research computer scientists from [csedweek.org](csedweek.org) and [techprep](https://www.youtube.com/watch?v=-xFJM3QQ3TE). 
+<p>Students will begin the lesson by watching a video from [code.org](code.org) on how computer science is changing everything.
+Students will be asked to note the different fields in which they see computer science being used.</p>
+<p>In groups of 4-5 students will create a tree map that identifies the different industries in which they realize are impacted by computer science.
+They will define specific areas within that industry in which computer science has improved that field.</p>
+<p>Students will next research computer scientists from [csedweek.org](csedweek.org) and [techprep](https://www.youtube.com/watch?v=-xFJM3QQ3TE). 
 On Google Slides, students will create the presentation with the following:
 1. **Background Information**: Name of the computer scientist, what they studied in college (if applicable), occupation. A picture of the person if available can be placed here.
 2. **Impact**: The student will explain how the person made an impact on their field, which in turn, makes an impact on society. What problem did the scientist solve? Are there other possibilities we could use this application/computing to solve problems in the world?
-3. **Inspiration**:The student will describe what is inspiring about the person’s background, creation, or innovation considering computer science.
+3. **Inspiration**:The student will describe what is inspiring about the person’s background, creation, or innovation considering computer science.</p>
 
 ## Assessment
 
