@@ -13,8 +13,8 @@ The goal of this plan is to help students understand how computer science makes 
 
 ## Learning Activities
 
-<p>Students will begin the lesson by watching a video from [code.org](https://code.org/) on how computer science is changing everything.
-Students will be asked to note the different fields in which they see computer science being used.</p>
+Students will begin the lesson by watching a video from [code.org](https://code.org/) on how computer science is changing everything.
+Students will be asked to note the different fields in which they see computer science being used.<br>
 <p>In groups of 4-5 students will create a tree map that identifies the different industries in which they realize are impacted by computer science.
 They will define specific areas within that industry in which computer science has improved that field.</p>
 <p>Students will next research computer scientists from [csedweek.org](https://www.csedweek.org) and [techprep](https://www.youtube.com/watch?v=-xFJM3QQ3TE). 
