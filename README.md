@@ -39,5 +39,7 @@ To assess the learning objectives, the teacher will follow a 4 point rubric base
 
 ## Outcomes
 
-Since the people the students will meet in the videos are from many diverse backgrounds, this plan will assist in facilitating diversity/equity/inclusion. I believe that [code.org](code.org) and [projectstem.org](projectstem.org) have done a great job at making all students feel included by representing people in the industry who you don’t usually see on the cover of Time magazine. Students will have the opportunity to research and/or learn from their classmates about different computer scientists from a variety of fields, who represent diverse backgrounds. Most importantly, by doing this research, the student should feel empowered to learn computer science and to make their own impact in the world despite any challenges they may face.
+Since the people the students will meet in the videos are from many diverse backgrounds, this plan will assist in facilitating diversity/equity/inclusion. I believe that [code.org](code.org) and [projectstem.org](projectstem.org) have done a great job at making all students feel included by representing people in the industry who you don’t usually see on the cover of Time magazine. <br>
+<br>
+Students will have the opportunity to research and/or learn from their classmates about different computer scientists from a variety of fields, who represent diverse backgrounds. Most importantly, by doing this research, the student should feel empowered to learn computer science and to make their own impact in the world despite any challenges they may face.
 
