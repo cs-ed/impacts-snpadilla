@@ -15,7 +15,7 @@ The following lesson plan will outline a major project during the course of stud
 
 ## Learning Activities
 
-Students will begin the lesson by watching a video from [code.org](https://code.org/) on how computer science is changing everything. Some guiding questions will be asked for discussion: What are the different fields you notice in the videos? How has computer science impacted those fields? What do you find surprising?
+Students will begin the project by watching a video from [code.org](https://code.org/) on how computer science is changing everything. Some guiding questions will be asked for discussion: What are the different fields you notice in the videos? How has computer science impacted those fields? What do you find surprising?
 Students will be asked to note the different fields in which they see computer science being used.<br>
 <br>
 In groups of 4-5 students will create a tree map that identifies the different industries in which they realize are impacted by computer science.
@@ -30,6 +30,8 @@ On Google Slides, students will create the presentation with the following:<br>
 2. **Impact**: The student will explain how the person made an impact on their field, which in turn, makes an impact on society. What solution did the person provide in their field? Are there other possibilities we could use this application/computing to solve problems in the world?<br>
 3. **Inspiration**:The student will describe what is inspiring about the person’s background, creation, or innovation considering computer science. The student will answer the following: How does the person inspire people from different backgrounds 
 
+Each small group will work together to put their slides onto one master slideshow. They will present their computer science heroes to the class as a small group. This will support English learners and others who may not feel as secure presenting on their own.
+
 ## Assessment
 
 To assess the learning objectives, the teacher will follow a 4 point rubric based off of [projectstem.org](projectstem.org) for each part of the assignment (Background Information, Impact, and Inspiration):<br>
@@ -41,7 +43,7 @@ To assess the learning objectives, the teacher will follow a 4 point rubric base
 
 ## Outcomes
 
-Since the people the students will meet in the videos are from many diverse backgrounds, this plan will assist in facilitating diversity/equity/inclusion. I believe that [code.org](code.org) and [projectstem.org](projectstem.org) have done a great job at making all students feel included by representing people in the industry who you don’t usually see on the cover of Time magazine. <br>
+Since the people the students will meet in the videos are from many diverse backgrounds, representing the following demographics: women, Native Americans, African Americans, Asian Americans, non-native English speakers, and the LBGTQ+ community, this plan will assist in facilitating diversity/equity/inclusion. Moreover, by placing the students in small groups to work and present together, English learners will have some peer support. I believe that [code.org](code.org) and [projectstem.org](projectstem.org) have done a great job at making all students feel included by representing people in the industry who you don’t usually see on the cover of Time magazine. <br>
 <br>
-Students will have the opportunity to research and/or learn from their classmates about different computer scientists from a variety of fields, who represent diverse backgrounds. Most importantly, by doing this research, the student should feel empowered to learn computer science and to make their own impact in the world despite any challenges they may face.
+In essence, students will have the opportunity to research and/or learn from their classmates about different computer scientists from a variety of fields, who represent diverse backgrounds. Most importantly, by doing this research, the student should feel empowered to learn computer science and to make their own impact in the world despite any challenges they may face.
 
