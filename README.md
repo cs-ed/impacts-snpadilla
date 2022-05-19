@@ -47,3 +47,9 @@ Since the people the students will meet in the videos are from many diverse back
 <br>
 In essence, students will have the opportunity to research and/or learn from their classmates about different computer scientists from a variety of fields, who represent diverse backgrounds. Most importantly, by doing this research, the student should feel empowered to learn computer science and to make their own impact in the world despite any challenges they may face.
 
+## References
+
+[code.org](code.org)
+[csedweek.org](https://www.csedweek.org)
+[Project Stem](https://projectstem.org/) 
+[techprep](https://www.youtube.com/watch?v=-xFJM3QQ3TE)
