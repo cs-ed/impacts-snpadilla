@@ -28,7 +28,7 @@ On Google Slides, students will create the presentation with the following:<br>
     b. Occupation. <br>
     c. A picture of the person if available can be placed here.<br>
 2. **Impact**: The student will explain how the person made an impact on their field, which in turn, makes an impact on society. What solution did the person provide in their field? Are there other possibilities we could use this application/computing to solve problems in the world?<br>
-3. **Inspiration**:The student will describe what is inspiring about the person’s background, creation, or innovation considering computer science. 
+3. **Inspiration**:The student will describe what is inspiring about the person’s background, creation, or innovation considering computer science. The student will answer the following: How does the person inspire people from different backgrounds 
 
 ## Assessment
 
