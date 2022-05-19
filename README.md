@@ -8,8 +8,8 @@ The following lesson plan will outline a major project during the course of stud
 
 ## Learning Objectives
 
--Students will research a computer scientist who has made a great impact on society. The heroes featured will be from a diverse group of people, who represent the following underrepresented demographics in computer science: women, Native Americans, African Americans, Asian Americans, non-native English speakers, and the LBGTQ+ community.<br>
--Students will create a slideshow on an important person in computer science history.
+*Students will research a computer scientist who has made a great impact on society. The heroes featured will be from a diverse group of people, who represent the following underrepresented demographics in computer science: women, Native Americans, African Americans, Asian Americans, non-native English speakers, and the LBGTQ+ community.<br>
+*Students will create a slideshow on an important person in computer science history.
 
 ## Learning Activities
 
