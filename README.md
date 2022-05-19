@@ -49,7 +49,7 @@ In essence, students will have the opportunity to research and/or learn from the
 
 ## References
 
-[code.org](code.org)
-[csedweek.org](https://www.csedweek.org)
-[Project Stem](https://projectstem.org/) 
-[techprep](https://www.youtube.com/watch?v=-xFJM3QQ3TE)
+[code.org](code.org)<br>
+[csedweek.org](https://www.csedweek.org)<br>
+[Project Stem](https://projectstem.org/) <br>
+[techprep](https://www.youtube.com/watch?v=-xFJM3QQ3TE)<br>
