@@ -1,6 +1,8 @@
 # Impacts on Society
 
-**Course**: Introduction to Computer Science - an introductory level course for students in Grades 6 - 8 to learn basic coding using Scratch using the [Project Stem](https://projectstem.org/) curriculum. Project Stem's motto is that "every student in every school should have the opportunity to learn computer science and STEM." Hence, the following plan will be implemented with the goal in mind to help students understand how computer science makes an impact on the greater society due to its prevalence in many fields of study. Students will also be inspired by the diversity of the featured presenters in the videos, to continue with studying computer science so that they, themselves, will be part of the greater impact on society in the future. The following lesson plan will outline a major project during the course of study, which will be revisited often to remind the students of the diverse computer scientists in the world and their impact to the world.
+**Course**: Introduction to Computer Science - an introductory level course for students in Grades 6 - 8 to learn basic coding using Scratch using the [Project Stem](https://projectstem.org/) curriculum. Project Stem's motto is that "every student in every school should have the opportunity to learn computer science and STEM." <br>
+Hence, the following plan will be implemented with the goal in mind to help students understand how computer science makes an impact on the greater society due to its prevalence in many fields of study. Students will also be inspired by the diversity of the featured presenters in the videos, to continue with studying computer science so that they, themselves, will be part of the greater impact on society in the future. <br>
+The following lesson plan will outline a major project during the course of study, which will be revisited often to remind the students of the diverse computer scientists in the world and their impact to the world.
 
 # Plan
 
