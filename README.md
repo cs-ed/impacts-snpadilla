@@ -15,7 +15,7 @@ The following lesson plan will outline a major project during the course of stud
 
 ## Learning Activities
 
-Students will begin the lesson by watching a video from [code.org](https://code.org/) on how computer science is changing everything.
+Students will begin the lesson by watching a video from [code.org](https://code.org/) on how computer science is changing everything. Some guiding questions will be asked for discussion: What are the different fields you notice in the videos? How has computer science impacted those fields? What do you find surprising?
 Students will be asked to note the different fields in which they see computer science being used.<br>
 <br>
 In groups of 4-5 students will create a tree map that identifies the different industries in which they realize are impacted by computer science.
@@ -28,7 +28,7 @@ On Google Slides, students will create the presentation with the following:<br>
     b. Occupation. <br>
     c. A picture of the person if available can be placed here.<br>
 2. **Impact**: The student will explain how the person made an impact on their field, which in turn, makes an impact on society. What solution did the person provide in their field? Are there other possibilities we could use this application/computing to solve problems in the world?<br>
-3. **Inspiration**:The student will describe what is inspiring about the person’s background, creation, or innovation considering computer science.
+3. **Inspiration**:The student will describe what is inspiring about the person’s background, creation, or innovation considering computer science. 
 
 ## Assessment
 
